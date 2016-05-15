@@ -18,7 +18,7 @@ module.exports = React.createClass({
         
         // put the data in some container
 
-    })
+    });
 
     this.setState({
         display: 'Sent'
